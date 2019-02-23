@@ -1,5 +1,5 @@
 '''
-This code is a first go at training NNs to study phase transition in the VBS model.
+This code is a first go at training NNs to study a phase transition in the VBS model.
 Authors: Chao Wang, Mae Teo
 '''
 
